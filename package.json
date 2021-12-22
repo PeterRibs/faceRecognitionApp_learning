@@ -1,6 +1,5 @@
 {
   "name": "facialrecognitionapp",
-  "homepage": "https://PeterRibs.github.io/facialRecognitionApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
